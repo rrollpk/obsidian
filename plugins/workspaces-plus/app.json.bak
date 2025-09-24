@@ -1,0 +1,10 @@
+{
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "defaultViewMode": "preview",
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./Pictures",
+  "showInlineTitle": false,
+  "propertiesInDocument": "hidden",
+  "readableLineLength": false
+}

@@ -1,0 +1,6896 @@
+{
+  "export": {
+    "includeIcons": true,
+    "replaceVars": true,
+    "useDataEls": true,
+    "useIds": true
+  },
+  "folderMappings": [
+    {
+      "folder": "Homepage",
+      "toolbar": "6906c476-b071-4a76-b526-79b49f7e2502"
+    }
+  ],
+  "icon": "circle-ellipsis",
+  "ribbonAction": "toolbar",
+  "scriptingEnabled": true,
+  "showEditInFabMenu": false,
+  "toolbarProp": "notetoolbar",
+  "toolbars": [
+    {
+      "uuid": "498a1e96-bdd6-4eb1-b068-e5e6f4819b51",
+      "defaultStyles": [
+        "border",
+        "even",
+        "sticky"
+      ],
+      "items": [
+        {
+          "uuid": "549f0c43-d94f-4e6a-971a-55cf30341d08",
+          "label": "Fundamentos de Administración de Empresas",
+          "icon": "",
+          "link": "Estudio/1º, Quadrimestre 1/Introduction to Business Administration/IntroductiontoBusinessAdministration.md",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "file"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "d9b213f5-8fdd-4a94-8e55-af76a7b7549c",
+          "label": "Introducción a las Matemáticas para la Economía",
+          "icon": "",
+          "link": "Estudio/1º, Quadrimestre 1/Introduction to Mathematics for Economics/IntroductiontoMathematicsforEconomics.md",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "file"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "bafc88fa-4b31-488e-b188-761adf6c901e",
+          "label": "Introducción al Derecho Civil Patrimonial",
+          "icon": "",
+          "link": "Estudio/1º, Quadrimestre 1/Introduction to Patrimonial Law/IntroductiontoPatrimonialLaw.md",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "file"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "8c599183-1343-4123-ac9f-c62eea616830",
+          "label": "Matemáticas para la Economía I",
+          "icon": "",
+          "link": "Estudio/1º, Quadrimestre 1/Mathematics I/MathematicsI.md",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "file"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "1d155323-22f5-4d82-b8d6-3821e40a1ee5",
+          "label": "Principios de Economía",
+          "icon": "",
+          "link": "Estudio/1º, Quadrimestre 1/Principles of Economics/PrinciplesofEconomics.md",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "file"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "94b2989e-62bb-47de-9966-72e0d47f5ad8",
+          "label": "Técnicas de Búsqueda y Uso de la Información",
+          "icon": "",
+          "link": "Estudio/1º, Quadrimestre 1/Information Skills/Information Skills.md",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "file"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        }
+      ],
+      "mobileStyles": [],
+      "name": "1º Quadrimestre 1",
+      "position": {
+        "desktop": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "mobile": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "tablet": {
+          "allViews": {
+            "position": "props"
+          }
+        }
+      },
+      "updated": "2025-01-13T14:05:49.967Z"
+    },
+    {
+      "uuid": "c2a0e059-0057-4dbc-87f2-333dde4ec62d",
+      "defaultStyles": [
+        "border",
+        "even",
+        "sticky"
+      ],
+      "items": [
+        {
+          "uuid": "b997a957-3ac0-4a1b-9064-6e454329e96b",
+          "label": "Estadística I",
+          "icon": "",
+          "link": "Estudio/1º, Quadrimestre 2/Statistics I/StatisticsI.md",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "file"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "6d79bf0b-44fa-4999-a5ed-38a713ca86c5",
+          "label": "Introducción a la Contabilidad",
+          "icon": "",
+          "link": "Estudio/1º, Quadrimestre 2/Accounting Introduction/AccountingIntroduction.md",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "file"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "65e40190-9d9a-4aa0-b97d-c420094ab666",
+          "label": "Matemáticas para la Economía II",
+          "icon": "",
+          "link": "Estudio/1º, Quadrimestre 2/MathematicsII/MathematicsII.md",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "file"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "56f48db0-559b-47f8-86e4-e07e8936b724",
+          "label": "Microeconomía",
+          "icon": "",
+          "link": "Estudio/2º, Quadrimestre 2/Microeconomics/Microeconomics.md",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "file"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "1e57c218-177e-4ee4-bb99-f1713c1d56da",
+          "label": "Optimización Matemática para la Economía",
+          "icon": "",
+          "link": "Estudio/1º, Quadrimestre 2/Mathematical Optimization for Economics/MathematicalOptimizationforEconomics.md",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "file"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "a6fcf86c-141d-40a9-9f66-d2757b6e2a3a",
+          "label": "Técnicas de Expresión Oral y Escrita",
+          "icon": "",
+          "link": "Estudio/1º, Quadrimestre 2/Writing and Communication Skills/WritingandCommunicationSkills.md",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "file"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        }
+      ],
+      "mobileStyles": [],
+      "name": "1º Quadrimestre 2",
+      "position": {
+        "desktop": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "mobile": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "tablet": {
+          "allViews": {
+            "position": "props"
+          }
+        }
+      },
+      "updated": "2025-02-18T12:27:14.473Z"
+    },
+    {
+      "uuid": "69bd2064-247d-4d49-a7a7-a8572ccad630",
+      "defaultStyles": [
+        "border",
+        "even",
+        "sticky"
+      ],
+      "items": [
+        {
+          "uuid": "94230be9-8a17-4add-bf36-90d7027fc270",
+          "label": "Estadística II",
+          "icon": "",
+          "link": "Estudio/2º, Quadrimestre 2/Statistics II/StatisticsII.md",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "file"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "e469572b-5b89-494b-9583-f32b7320fc8e",
+          "label": "Historia Económica",
+          "icon": "",
+          "link": "Estudio/2º, Quadrimestre 1/Economic History/Economic History.md",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "file"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "3a90c661-6c61-4e81-8549-55ce5a8edac1",
+          "label": "Macroeconomía",
+          "icon": "",
+          "link": "Estudio/2º, Quadrimestre 2/Macroeconomics/Macroeconomics.md",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "file"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "1ce12fd1-a74d-4294-b90a-80abf27b5cc4",
+          "label": "Teoría de los Juegos",
+          "icon": "",
+          "link": "Estudio/2º, Quadrimestre 2/Game Theory/GameTheory.md",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "file"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "8b1ce346-438b-43b5-bb14-f58bfdb06006",
+          "label": "Teoría Microeconómica",
+          "icon": "",
+          "link": "Estudio/2º, Quadrimestre 1/Microeconomic Theory/Microeconomic Theory.md",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "file"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        }
+      ],
+      "mobileStyles": [],
+      "name": "2º, Quadrimestre 1",
+      "position": {
+        "desktop": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "mobile": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "tablet": {
+          "allViews": {
+            "position": "props"
+          }
+        }
+      },
+      "updated": "2025-01-13T14:22:17.771Z"
+    },
+    {
+      "uuid": "1b2f9ccb-4af0-44e2-882f-d6a9a0f6be58",
+      "defaultStyles": [
+        "border",
+        "even",
+        "sticky"
+      ],
+      "items": [
+        {
+          "uuid": "1a86a4b9-a5df-48d3-835c-20583b103604",
+          "label": "Econometría",
+          "icon": "",
+          "link": "Estudio/2º, Quadrimestre 2/Econometrics/Econometrics.md",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "file"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "0f5d6b4d-7d85-4407-8f8a-9d7eea3a6bb7",
+          "label": "Economía Financiera",
+          "icon": "",
+          "link": "Estudio/2º, Quadrimestre 2/Financial Economics/FinancialEconomics.md",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "file"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "396e98f2-b852-40b5-b4fb-22a849e69a2b",
+          "label": "Macroeconomía Dinámica",
+          "icon": "",
+          "link": "Estudio/2º, Quadrimestre 2/Dynamic Macroeconomics/DynamicMacroeconomics.md",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "file"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "135a3540-5fe1-49e4-8880-58588e05ed62",
+          "label": "Organización Industrial",
+          "icon": "",
+          "link": "Estudio/2º, Quadrimestre 2/Industrial Organization/IndustrialOrganization.md",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "file"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "8afa9f35-52c0-42c4-bd60-5779e56863ba",
+          "label": "Historia de Pompeya y Herculano",
+          "icon": "",
+          "link": "Estudio/2º, Quadrimestre 2/History and Archaeology of Pompeii and Herculaneum/HistoryandArchaeologyofPompeiiandHerculaneum.md",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "file"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        }
+      ],
+      "mobileStyles": [],
+      "name": "2º, Quadrimestre 2",
+      "position": {
+        "desktop": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "mobile": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "tablet": {
+          "allViews": {
+            "position": "props"
+          }
+        }
+      },
+      "updated": "2025-01-13T15:02:37.525Z"
+    },
+    {
+      "uuid": "097cbaff-7da9-466f-bd4f-474b76f12259",
+      "defaultStyles": [
+        "border",
+        "even",
+        "sticky"
+      ],
+      "items": [
+        {
+          "uuid": "622e8441-a263-4ce4-b1f0-cfdb755f60c6",
+          "label": "Development Economics",
+          "icon": "",
+          "link": "",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "file"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "9cee75c6-21ff-483e-9f0f-ab568aa64a19",
+          "label": "Digital Organization",
+          "icon": "",
+          "link": "",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "file"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        }
+      ],
+      "mobileStyles": [],
+      "name": "3º, Quadrimestre 1",
+      "position": {
+        "desktop": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "mobile": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "tablet": {
+          "allViews": {
+            "position": "props"
+          }
+        }
+      },
+      "updated": "2025-09-12T09:30:55.222Z"
+    },
+    {
+      "uuid": "6ab4cb98-76bf-4101-aa30-56be0efb94e3",
+      "defaultStyles": [
+        "border",
+        "even",
+        "sticky"
+      ],
+      "items": [
+        {
+          "uuid": "94a2af64-0c63-498a-8969-79ae705514ab",
+          "label": "+1 Botella",
+          "icon": "lucide-pill-bottle",
+          "link": "",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "templater-obsidian"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          },
+          "scriptConfig": {
+            "pluginFunction": "parseTemplateFile",
+            "sourceFile": "Templater/PLANTILLA-BOTÓN AGUA.md"
+          }
+        },
+        {
+          "uuid": "66888bde-819e-4545-ab47-f53ff00eee88",
+          "label": "+1 Vaso",
+          "icon": "lucide-glass-water",
+          "link": "",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "templater-obsidian"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          },
+          "scriptConfig": {
+            "pluginFunction": "parseTemplateFile",
+            "sourceFile": "Templater/PLANTILLA-BOTÓN AGUA OTRA CANTIDAD.md"
+          }
+        },
+        {
+          "uuid": "8445a4d0-2fb3-4f3b-9e99-9b09ba98e127",
+          "label": "Restante",
+          "icon": "lucide-align-left",
+          "link": "",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "templater-obsidian"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          },
+          "scriptConfig": {
+            "pluginFunction": "parseTemplateFile",
+            "sourceFile": "Templater/PLANTILLA-BOTÓN AGUA RESTANTE.md"
+          }
+        }
+      ],
+      "mobileStyles": [],
+      "name": "Agua",
+      "position": {
+        "desktop": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "mobile": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "tablet": {
+          "allViews": {
+            "position": "props"
+          }
+        }
+      },
+      "updated": "2025-03-11T16:29:57.026Z"
+    },
+    {
+      "uuid": "2cf57e54-f0eb-4073-887f-c5de0a383e57",
+      "defaultStyles": [
+        "border",
+        "even",
+        "sticky"
+      ],
+      "items": [
+        {
+          "uuid": "2a1bffc0-70f9-4186-b983-81e99fac6a07",
+          "label": "BBC1",
+          "icon": "",
+          "link": "",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "templater-obsidian"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          },
+          "scriptConfig": {
+            "pluginFunction": "parseTemplateFile",
+            "sourceFile": "Templater/PLANTILLAS-PÁGINAS WEB/PLANTILLA-PÁGINA WEB-BBC 1.md"
+          }
+        },
+        {
+          "uuid": "fdc2e2bc-755e-4fb0-a1c7-98867a3e327b",
+          "label": "BBC2",
+          "icon": "",
+          "link": "",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "templater-obsidian"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          },
+          "scriptConfig": {
+            "pluginFunction": "parseTemplateFile",
+            "sourceFile": "Templater/PLANTILLAS-PÁGINAS WEB/PLANTILLA-PÁGINA WEB-BBC 2.md"
+          }
+        }
+      ],
+      "mobileStyles": [],
+      "name": "Artículos",
+      "position": {
+        "desktop": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "mobile": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "tablet": {
+          "allViews": {
+            "position": "props"
+          }
+        }
+      },
+      "updated": "2025-04-25T00:33:23.976Z"
+    },
+    {
+      "uuid": "6cd990da-b547-48e4-8f57-d5402ec87613",
+      "defaultStyles": [
+        "border",
+        "even",
+        "sticky"
+      ],
+      "items": [
+        {
+          "uuid": "b703820f-1fee-4c2d-932b-8d69015f12a6",
+          "label": "Terminal",
+          "icon": "lucide-square-terminal",
+          "link": "Estudio/Basics Terminal.md",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "file"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "c5709dcd-622d-4ae3-9707-e98576d8bde1",
+          "label": "Python",
+          "icon": "lucide-codepen",
+          "link": "Programación/Python/Python.md",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "file"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "fbb87640-7619-4e4f-bab4-fa9cfae3688b",
+          "label": "SQL",
+          "icon": "lucide-mail-question",
+          "link": "",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "command"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "d6b22dfb-936c-4c27-ab6a-f2d0ae458e8f",
+          "label": "Excel",
+          "icon": "spreadsheet",
+          "link": "",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "command"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "91d0328e-1170-4dea-a0f7-abcf2a30cbfc",
+          "label": "Power BI",
+          "icon": "lucide-power-circle",
+          "link": "",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "command"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "267979ba-debe-4337-8d48-bff9f58c8fa7",
+          "label": "Latex",
+          "icon": "lucide-calculator",
+          "link": "",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "command"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "a0c66946-3cd4-4010-b9f7-0f2060017ab1",
+          "label": "HTML & CSS",
+          "icon": "lucide-webhook",
+          "link": "",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "command"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "02b52b26-1573-40c7-acb2-83ee1e68a4cb",
+          "label": "GIT",
+          "icon": "lucide-save",
+          "link": "",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "command"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        }
+      ],
+      "mobileStyles": [],
+      "name": "Basics",
+      "position": {
+        "desktop": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "mobile": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "tablet": {
+          "allViews": {
+            "position": "props"
+          }
+        }
+      },
+      "updated": "2025-08-07T20:06:21.073Z"
+    },
+    {
+      "uuid": "452ad46a-0794-4200-980f-b28fb2677417",
+      "defaultStyles": [
+        "border",
+        "even",
+        "sticky"
+      ],
+      "items": [],
+      "mobileStyles": [],
+      "name": "Bootcamp IE",
+      "position": {
+        "desktop": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "mobile": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "tablet": {
+          "allViews": {
+            "position": "props"
+          }
+        }
+      },
+      "updated": "2025-06-29T01:10:55.336Z"
+    },
+    {
+      "uuid": "186bd3e5-820f-43b8-b116-3b7df35ece6b",
+      "defaultStyles": [
+        "border",
+        "even",
+        "sticky"
+      ],
+      "items": [
+        {
+          "uuid": "3026716e-4caa-45f9-af99-2e1a0db32c57",
+          "label": "Chat GPT",
+          "icon": "lucide-bot-message-square",
+          "link": "",
+          "linkAttr": {
+            "commandId": "obsidian-custom-frames:open-custom-frames-chat-gpt",
+            "hasVars": false,
+            "type": "templater-obsidian"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          },
+          "scriptConfig": {
+            "pluginFunction": "parseTemplateFile",
+            "sourceFile": "Templater/PLANTILLAS-PÁGINAS WEB/PLANTILLA-PÁGINA WEB-CHAT GPT.md"
+          }
+        },
+        {
+          "uuid": "20efaa7f-37ef-4733-83d9-1fd59f885ad9",
+          "label": "Claude",
+          "icon": "bot-glyph",
+          "link": "",
+          "linkAttr": {
+            "commandId": "obsidian-custom-frames:open-custom-frames-claude",
+            "hasVars": false,
+            "type": "templater-obsidian"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          },
+          "scriptConfig": {
+            "pluginFunction": "parseTemplateFile",
+            "sourceFile": "Templater/PLANTILLAS-PÁGINAS WEB/PLANTILLA-PÁGINA WEB CLAUDE.md"
+          }
+        },
+        {
+          "uuid": "34fec8cb-f030-4a2c-a7ea-c70604259340",
+          "label": "WolframAlpha",
+          "icon": "math",
+          "link": "",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "templater-obsidian"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          },
+          "scriptConfig": {
+            "pluginFunction": "parseTemplateFile",
+            "sourceFile": "Templater/PLANTILLAS-PÁGINAS WEB/PLANTILLA-PÁGINA WEB-WOLFRAMALPHA.md"
+          }
+        }
+      ],
+      "mobileStyles": [],
+      "name": "Bots",
+      "position": {
+        "desktop": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "mobile": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "tablet": {
+          "allViews": {
+            "position": "props"
+          }
+        }
+      },
+      "updated": "2025-05-25T04:23:37.503Z"
+    },
+    {
+      "uuid": "db5b2390-6c86-4ba0-a47b-65d91827b442",
+      "defaultStyles": [
+        "border",
+        "even",
+        "sticky"
+      ],
+      "items": [
+        {
+          "uuid": "eac21fd5-4b10-4039-90bd-3c99fcf7b96c",
+          "label": "Etoro",
+          "icon": "lucide-piggy-bank",
+          "link": "",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "templater-obsidian"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          },
+          "scriptConfig": {
+            "pluginFunction": "parseTemplateFile",
+            "sourceFile": "Templater/PLANTILLAS-PÁGINAS WEB/PLANTILLA-PÁGINA WEB ETORO.md"
+          }
+        },
+        {
+          "uuid": "8ad2c42c-93c8-4e4d-aaf5-5138997a3975",
+          "label": "Coinbase",
+          "icon": "lucide-coins",
+          "link": "",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "command"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        }
+      ],
+      "mobileStyles": [],
+      "name": "Brokers y Wallets",
+      "position": {
+        "desktop": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "mobile": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "tablet": {
+          "allViews": {
+            "position": "props"
+          }
+        }
+      },
+      "updated": "2025-02-12T00:20:43.031Z"
+    },
+    {
+      "uuid": "feedaa4a-8f4c-4c0d-b8df-ba5092e05580",
+      "defaultStyles": [
+        "border",
+        "even",
+        "sticky"
+      ],
+      "items": [
+        {
+          "uuid": "b29b165d-53f7-423f-9359-15df2cb782ff",
+          "label": "Vault",
+          "icon": "lucide-folder-search",
+          "link": "Omnisearch: Vault search",
+          "linkAttr": {
+            "commandId": "omnisearch:show-modal",
+            "hasVars": false,
+            "type": "command"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "99119d3b-afdf-462f-90ed-68c6077f62d2",
+          "label": "Google",
+          "icon": "lucide-app-window",
+          "link": "Web viewer: Open web viewer",
+          "linkAttr": {
+            "commandId": "webviewer:open",
+            "hasVars": false,
+            "type": "command"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "9fb12cc4-0eff-4925-aee5-e428e2b8122a",
+          "label": "Command Palette",
+          "icon": "codeblock-glyph",
+          "link": "Command palette: Open command palette",
+          "linkAttr": {
+            "commandId": "command-palette:open",
+            "hasVars": false,
+            "type": "command"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "01c76297-301d-4327-9bd6-659ca598708f",
+          "label": "Other",
+          "icon": "lucide-ellipsis",
+          "link": "ab3eaab4-11dc-48ee-bce3-ef6ac1eca1c8",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "menu"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        }
+      ],
+      "mobileStyles": [],
+      "name": "Buscador",
+      "position": {
+        "desktop": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "mobile": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "tablet": {
+          "allViews": {
+            "position": "props"
+          }
+        }
+      },
+      "updated": "2025-04-06T11:54:30.380Z"
+    },
+    {
+      "uuid": "5a5425f1-5c5b-4922-ac21-43ce02f5149f",
+      "defaultStyles": [
+        "border",
+        "even",
+        "sticky"
+      ],
+      "items": [
+        {
+          "uuid": "aa0038a7-7de8-46d6-83ee-100f2f4fc5e9",
+          "label": "Log",
+          "icon": "lucide-calendar-cog",
+          "link": "Full Calendar: Open Calendar",
+          "linkAttr": {
+            "commandId": "obsidian-full-calendar:full-calendar-open",
+            "hasVars": false,
+            "type": "command"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "f95d1d49-53ed-4f8b-8a0f-9118296a5a7d",
+          "label": "Daily Note",
+          "icon": "lucide-clock-1",
+          "link": "Daily notes: Open today's daily note",
+          "linkAttr": {
+            "commandId": "daily-notes",
+            "hasVars": false,
+            "type": "command"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "a200c84e-bb05-4542-aa95-3ea32b555b66",
+          "label": "Weekly Note",
+          "icon": "calendar-week",
+          "link": "Calendar: Open Weekly Note",
+          "linkAttr": {
+            "commandId": "calendar:open-weekly-note",
+            "hasVars": false,
+            "type": "command"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "6d847393-00c5-466d-8052-732fdb8626d8",
+          "label": "Graphs",
+          "icon": "lucide-calendar-check-2",
+          "link": "",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "command"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        }
+      ],
+      "mobileStyles": [],
+      "name": "Calendar",
+      "position": {
+        "desktop": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "mobile": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "tablet": {
+          "allViews": {
+            "position": "props"
+          }
+        }
+      },
+      "updated": "2025-04-01T10:16:02.330Z"
+    },
+    {
+      "uuid": "81c620e5-f618-42b9-9eba-4e9bb4861679",
+      "defaultStyles": [
+        "border",
+        "even",
+        "sticky"
+      ],
+      "items": [
+        {
+          "uuid": "59a0231a-04de-4bfa-8aae-c30022aed504",
+          "label": "DashBoard",
+          "icon": "lucide-circuit-board",
+          "link": "Workspaces Plus: Load: Dashboard",
+          "linkAttr": {
+            "commandId": "workspaces-plus:Dashboard",
+            "hasVars": false,
+            "type": "command"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          },
+          "scriptConfig": {
+            "pluginFunction": ""
+          }
+        },
+        {
+          "uuid": "d0ce6085-6694-412e-9393-763c210a5285",
+          "label": "Lista",
+          "icon": "lucide-clipboard-list",
+          "link": "Bolsa/Cripto/Criptomonedas.md",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "file"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        }
+      ],
+      "mobileStyles": [],
+      "name": "Criptocurrencies",
+      "position": {
+        "desktop": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "mobile": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "tablet": {
+          "allViews": {
+            "position": "props"
+          }
+        }
+      },
+      "updated": "2025-03-06T20:40:45.345Z"
+    },
+    {
+      "uuid": "d405d9ff-0f21-4a42-ab4e-548b41777c73",
+      "defaultStyles": [
+        "border",
+        "even",
+        "sticky"
+      ],
+      "items": [
+        {
+          "uuid": "dc839a11-1432-4783-9d7d-fb3ab3989b92",
+          "label": "Aicad",
+          "icon": "",
+          "link": "Estudio/Aicad/Aicad.md",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "file"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "45f1b008-d708-49db-9a24-04d735c4d5b5",
+          "label": "Goldman Sachs: Excel",
+          "icon": "",
+          "link": "",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "command"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "a5e98634-b610-4d4d-b0fa-dbeb35efeb8a",
+          "label": "Liga de Bolsa",
+          "icon": "",
+          "link": "",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "command"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "bce6f865-4845-4229-b730-7d27c383cd17",
+          "label": "IBM: Data Cientist",
+          "icon": "",
+          "link": "",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "file"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "bd709798-2254-412d-8b26-41676b22e9b2",
+          "label": "Microsoft Power BI Data Analyst",
+          "icon": "",
+          "link": "",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "file"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        }
+      ],
+      "mobileStyles": [],
+      "name": "Cursos",
+      "position": {
+        "desktop": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "mobile": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "tablet": {
+          "allViews": {
+            "position": "props"
+          }
+        }
+      },
+      "updated": "2025-07-16T13:17:09.428Z"
+    },
+    {
+      "uuid": "0c113d93-8d33-4268-b83c-1f0ba7f02637",
+      "defaultStyles": [
+        "border",
+        "even",
+        "sticky"
+      ],
+      "items": [
+        {
+          "uuid": "55d0df30-b1db-40f1-85da-03803270b4d2",
+          "label": "Webs",
+          "icon": "lucide-earth",
+          "link": "211f44da-469e-40d1-81c5-e15eb0a44710",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "menu"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "a82671e4-5a7e-4a02-b8e2-746a595d9b3f",
+          "label": "Basics",
+          "icon": "lucide-terminal",
+          "link": "6cd990da-b547-48e4-8f57-d5402ec87613",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "menu"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "2ab0e75f-08aa-4fcc-aacc-c9eb9604823b",
+          "label": "1º, Quadrimestre 1",
+          "icon": "",
+          "link": "498a1e96-bdd6-4eb1-b068-e5e6f4819b51",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "menu"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "f6a9d067-e7a4-4f45-9171-7e76c430c1c5",
+          "label": "1º, Quadrimestre 2",
+          "icon": "",
+          "link": "c2a0e059-0057-4dbc-87f2-333dde4ec62d",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "menu"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "2e6fe080-44cd-4d93-b0d5-332af9b8e3d9",
+          "label": "2º, Quadrimestre 1",
+          "icon": "",
+          "link": "69bd2064-247d-4d49-a7a7-a8572ccad630",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "menu"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "2b621b3d-4fcb-41d3-8cee-cc42baf6c1c1",
+          "label": "2º, Quadrimestre 2",
+          "icon": "",
+          "link": "1b2f9ccb-4af0-44e2-882f-d6a9a0f6be58",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "menu"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "7024087c-858b-420e-9b45-3781d54e8590",
+          "label": "3º, Quadrimestre 1",
+          "icon": "",
+          "link": "097cbaff-7da9-466f-bd4f-474b76f12259",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "menu"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "dc7f3ae5-ea5b-4fa3-bd37-389bed751421",
+          "label": "Bootcamp IE",
+          "icon": "",
+          "link": "452ad46a-0794-4200-980f-b28fb2677417",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "menu"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "80aa87ee-ce98-4244-b941-64c8ba0741c9",
+          "label": "Cursos",
+          "icon": "",
+          "link": "d405d9ff-0f21-4a42-ab4e-548b41777c73",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "menu"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "ff80169e-df48-4908-8617-e816042ea538",
+          "label": "Game Theory Poker",
+          "icon": "",
+          "link": "9e8e503b-b817-493a-8aef-a79db2a8bbd7",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "menu"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "102cd695-dd05-4b90-9136-66c20e1eef7c",
+          "label": "Idiomas",
+          "icon": "lucide-languages",
+          "link": "a1ddc066-0ac6-40dc-9def-5e1938b7cbf8",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "menu"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        }
+      ],
+      "mobileStyles": [],
+      "name": "Estudio",
+      "position": {
+        "desktop": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "mobile": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "tablet": {
+          "allViews": {
+            "position": "props"
+          }
+        }
+      },
+      "updated": "2025-08-06T14:16:39.281Z"
+    },
+    {
+      "uuid": "9e8e503b-b817-493a-8aef-a79db2a8bbd7",
+      "defaultStyles": [
+        "border",
+        "even",
+        "sticky"
+      ],
+      "items": [],
+      "mobileStyles": [],
+      "name": "Game Theory Poker",
+      "position": {
+        "desktop": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "mobile": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "tablet": {
+          "allViews": {
+            "position": "props"
+          }
+        }
+      },
+      "updated": "2025-06-29T01:16:06.438Z"
+    },
+    {
+      "uuid": "72765aa9-1253-4011-a07d-91ec2294feca",
+      "defaultStyles": [
+        "border",
+        "even",
+        "sticky"
+      ],
+      "items": [
+        {
+          "uuid": "476217ba-07cd-4ff5-9293-beae0557ba3c",
+          "label": "Fixed",
+          "icon": "lucide-locate-fixed",
+          "link": "",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "command"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "5057972f-8159-4a00-ba21-588086209732",
+          "label": "Previstos",
+          "icon": "lucide-arrow-big-right",
+          "link": "",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "command"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        }
+      ],
+      "mobileStyles": [],
+      "name": "Gastos",
+      "position": {
+        "desktop": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "mobile": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "tablet": {
+          "allViews": {
+            "position": "props"
+          }
+        }
+      },
+      "updated": "2025-01-31T03:23:29.106Z"
+    },
+    {
+      "uuid": "87f28994-e341-417f-b352-e245858bfd22",
+      "defaultStyles": [
+        "border",
+        "even",
+        "sticky"
+      ],
+      "items": [
+        {
+          "uuid": "df97408a-8a38-475d-938d-847f506f4658",
+          "label": "Rutina",
+          "icon": "lucide-calendar",
+          "link": "Gimnasio/Rutina.md",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "file"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "4e71b05f-7b78-4c8b-87c4-21f44a1c78d7",
+          "label": "Tracking",
+          "icon": "lucide-git-graph",
+          "link": "Gimnasio/MarcasEjercicios/MarcasEjercicios.md",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "file"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "feab3be9-be54-400c-8362-421fc94273c1",
+          "label": "Peso",
+          "icon": "lucide-weight",
+          "link": "2bea7296-62cf-462d-9508-376b0d483170",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "menu"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          },
+          "scriptConfig": {
+            "pluginFunction": "parseTemplateFile",
+            "sourceFile": "Templater/PLANTILLA-BOTÓN PESO.md"
+          }
+        },
+        {
+          "uuid": "ed50ec65-4322-4eb9-a668-a389af7f0257",
+          "label": "Add Exercise",
+          "icon": "lucide-biceps-flexed",
+          "link": "",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "templater-obsidian"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          },
+          "scriptConfig": {
+            "pluginFunction": "parseTemplateFile",
+            "sourceFile": "Templater/PLANTILLA-BOTÓN GIMNASIO.md"
+          }
+        }
+      ],
+      "mobileStyles": [],
+      "name": "Gimnasio",
+      "position": {
+        "desktop": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "mobile": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "tablet": {
+          "allViews": {
+            "position": "props"
+          }
+        }
+      },
+      "updated": "2025-02-24T20:08:28.835Z"
+    },
+    {
+      "uuid": "ab3eaab4-11dc-48ee-bce3-ef6ac1eca1c8",
+      "defaultStyles": [
+        "border",
+        "even",
+        "sticky"
+      ],
+      "items": [
+        {
+          "uuid": "ab47a929-a806-4487-956b-3827994cf058",
+          "label": "Docs",
+          "icon": "lucide-dock",
+          "link": "",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "command"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "13f4985d-6cb3-40f7-8159-79abbe195c06",
+          "label": "Sheets",
+          "icon": "spreadsheet",
+          "link": "",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "command"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "328e8d9a-988f-4859-a083-c601ce5ce166",
+          "label": "Presentations",
+          "icon": "lucide-file-sliders",
+          "link": "",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "command"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        }
+      ],
+      "mobileStyles": [],
+      "name": "Herramientas de Google",
+      "position": {
+        "desktop": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "mobile": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "tablet": {
+          "allViews": {
+            "position": "props"
+          }
+        }
+      },
+      "updated": "2025-04-06T11:55:21.274Z"
+    },
+    {
+      "uuid": "6906c476-b071-4a76-b526-79b49f7e2502",
+      "defaultStyles": [
+        "even",
+        "wide",
+        "button"
+      ],
+      "items": [
+        {
+          "uuid": "88ad07ba-eb8a-43b9-bf1d-9e1aed7afc2c",
+          "label": "",
+          "icon": "lucide-search",
+          "link": "feedaa4a-8f4c-4c0d-b8df-ba5092e05580",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "menu"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "8d0dfb72-0024-47e7-981a-58da5307116f",
+          "label": "",
+          "icon": "lucide-bot",
+          "link": "186bd3e5-820f-43b8-b116-3b7df35ece6b",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "menu"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "ae880630-5530-4ebd-a755-b73bbd37ac46",
+          "label": "Calendar",
+          "icon": "lucide-calendar",
+          "link": "5a5425f1-5c5b-4922-ac21-43ce02f5149f",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "menu"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "102ccb91-aded-423a-b383-6c45d78844a4",
+          "label": "Studio",
+          "icon": "lucide-book-copy",
+          "link": "0c113d93-8d33-4268-b83c-1f0ba7f02637",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "menu"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "1b0ff7f5-dcbc-4d94-9935-db9caa505c05",
+          "label": "Books",
+          "icon": "lucide-book",
+          "link": "7ad2469c-be28-428e-9a9c-6190d7bc8575",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "menu"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "e28f5dcf-525a-4b2d-8d14-275345ca2ffb",
+          "label": "Gimnasio",
+          "icon": "lucide-archive-restore",
+          "link": "87f28994-e341-417f-b352-e245858bfd22",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "menu"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          },
+          "scriptConfig": {
+            "pluginFunction": ""
+          }
+        },
+        {
+          "uuid": "7a4bf3db-625d-41bf-b08d-e452618416d4",
+          "label": "Piano",
+          "icon": "lucide-list-music",
+          "link": "07fcb335-0f0f-426a-a497-31edb0bb499b",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "menu"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "6aa06474-dc67-422d-8f28-defe37f056f8",
+          "label": "Recetas",
+          "icon": "lucide-cookie",
+          "link": "baf8efb0-3889-4f6d-bba5-b8c845428972",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "menu"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "7444b657-4618-41a0-8c75-803ada8bf2ea",
+          "label": "Inversiones",
+          "icon": "lucide-circle-dollar-sign",
+          "link": "8779bf4f-6dfd-452b-9d14-bf30b3809180",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "menu"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "17c8507a-a7dd-4127-99e3-99247f3deb14",
+          "label": "",
+          "icon": "lucide-mouse",
+          "link": "03f32b07-2139-465f-a91a-111d47425b13",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "menu"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "426ed4da-6c51-4de3-a500-7e334e77bfaf",
+          "label": "",
+          "icon": "lucide-lock",
+          "link": "fe4cf730-8f61-48aa-b7c3-1af65cdc6022",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "menu"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        }
+      ],
+      "mobileStyles": [],
+      "name": "Home",
+      "position": {
+        "desktop": {
+          "allViews": {
+            "position": "top"
+          }
+        },
+        "mobile": {
+          "allViews": {
+            "position": "top"
+          }
+        },
+        "tablet": {
+          "allViews": {
+            "position": "top"
+          }
+        }
+      },
+      "updated": "2025-03-18T12:20:55.852Z"
+    },
+    {
+      "uuid": "a1ddc066-0ac6-40dc-9def-5e1938b7cbf8",
+      "defaultStyles": [
+        "border",
+        "even",
+        "sticky"
+      ],
+      "items": [
+        {
+          "uuid": "55ae04c8-016d-41bd-a1af-4e24469e4b73",
+          "label": "Italiano",
+          "icon": "",
+          "link": "Idiomas/Italiano/Italiano.md",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "file"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "7bb70f64-5a4e-4ce5-9be8-26cb0023b482",
+          "label": "Inglés",
+          "icon": "",
+          "link": "Idiomas/Inglés/Inglés.md",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "file"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "8ddad2fc-2002-49fc-8b46-b6e0a4df2551",
+          "label": "Neerlandés",
+          "icon": "",
+          "link": "Idiomas/Neerlandés/Neerlandés.md",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "file"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "a019e19e-6bfc-461f-947c-fef93dd35b63",
+          "label": "WordReference",
+          "icon": "",
+          "link": "",
+          "linkAttr": {
+            "commandId": "obsidian-custom-frames:open-custom-frames-wordreference",
+            "hasVars": false,
+            "type": "templater-obsidian"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          },
+          "scriptConfig": {
+            "pluginFunction": "parseTemplateFile",
+            "sourceFile": "Templater/PLANTILLAS-PÁGINAS WEB/PLANTILLA-PÁGINA WEB-WORDREFERENCE.md"
+          }
+        },
+        {
+          "uuid": "03b07e58-525b-486e-bdf8-e84e1020478c",
+          "label": "Google Translator",
+          "icon": "",
+          "link": "",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "templater-obsidian"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          },
+          "scriptConfig": {
+            "pluginFunction": "parseTemplateFile",
+            "sourceFile": "Templater/PLANTILLAS-PÁGINAS WEB/PLANTILLA-PÁGINA WEB-TRADUCTOR GOOGLE.md"
+          }
+        }
+      ],
+      "mobileStyles": [],
+      "name": "Idiomas",
+      "position": {
+        "desktop": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "mobile": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "tablet": {
+          "allViews": {
+            "position": "props"
+          }
+        }
+      },
+      "updated": "2025-04-25T00:16:04.097Z"
+    },
+    {
+      "uuid": "13e206b6-b5ac-4fe3-ac0c-e869f4866bfa",
+      "defaultStyles": [
+        "border",
+        "even",
+        "sticky"
+      ],
+      "items": [
+        {
+          "uuid": "882e1593-02b9-4147-942a-e3dce3326130",
+          "label": "Obsidian Forum",
+          "icon": "obsidian",
+          "link": "",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "templater-obsidian"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          },
+          "scriptConfig": {
+            "pluginFunction": "parseTemplateFile",
+            "sourceFile": "Templater/PLANTILLAS-PÁGINAS WEB/PLANTILLA-PÁGINA WEB-OBSIDIAN FORUM.md",
+            "expression": "<%* const url = \"https://www.ejemplo.com\"; // Reemplaza con la URL que quieras abrir tR += `<button onclick=\"window.open('${url}', '_blank')\">Abrir página web</button>`; %>"
+          }
+        }
+      ],
+      "mobileStyles": [],
+      "name": "Info",
+      "position": {
+        "desktop": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "mobile": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "tablet": {
+          "allViews": {
+            "position": "props"
+          }
+        }
+      },
+      "updated": "2025-02-04T01:31:03.378Z"
+    },
+    {
+      "uuid": "8779bf4f-6dfd-452b-9d14-bf30b3809180",
+      "defaultStyles": [
+        "border",
+        "even",
+        "sticky"
+      ],
+      "items": [
+        {
+          "uuid": "f614fcb0-60ee-438c-8e55-752e9ba9b0c8",
+          "label": "Brokers y Wallets",
+          "icon": "lucide-wallet",
+          "link": "db5b2390-6c86-4ba0-a47b-65d91827b442",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "menu"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "d79e96f3-9aca-4518-aeab-58ca5b2a4c7a",
+          "label": "TradingView",
+          "icon": "lucide-line-chart",
+          "link": "Custom Frames: Open TradingView",
+          "linkAttr": {
+            "commandId": "obsidian-custom-frames:open-custom-frames-tradingview",
+            "hasVars": false,
+            "type": "command"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "998e0eda-4055-4991-a75f-c35fb0499a7c",
+          "label": "Criptocurrencies",
+          "icon": "lucide-bitcoin",
+          "link": "81c620e5-f618-42b9-9eba-4e9bb4861679",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "menu"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "f256d36a-334f-4ab8-8417-c14a31856e10",
+          "label": "Poker",
+          "icon": "lucide-coins",
+          "link": "2437859c-14f9-4819-aaab-0066c41741c0",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "menu"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "aedb08c6-d831-4ae4-ab88-234b7ddfa34f",
+          "label": "Recreacional",
+          "icon": "lucide-gamepad",
+          "link": "Inversiones/Recreacional.md",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "file"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "874a9848-a6fc-43df-b46c-804e01268231",
+          "label": "Gastos",
+          "icon": "lucide-receipt-euro",
+          "link": "72765aa9-1253-4011-a07d-91ec2294feca",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "menu"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        }
+      ],
+      "mobileStyles": [],
+      "name": "Inversiones",
+      "position": {
+        "desktop": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "mobile": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "tablet": {
+          "allViews": {
+            "position": "props"
+          }
+        }
+      },
+      "updated": "2025-01-31T03:24:17.599Z"
+    },
+    {
+      "uuid": "7ad2469c-be28-428e-9a9c-6190d7bc8575",
+      "defaultStyles": [
+        "border",
+        "even",
+        "sticky"
+      ],
+      "items": [
+        {
+          "uuid": "55ca6436-d667-4d9c-ac5f-b495e23ad252",
+          "label": "New Book",
+          "icon": "lucide-text-search",
+          "link": "Book Search: Create new book note",
+          "linkAttr": {
+            "commandId": "obsidian-book-search-plugin:open-book-search-modal",
+            "hasVars": false,
+            "type": "command"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "4ce7b6f7-0d01-4f1e-aea6-26ddc32f95c7",
+          "label": "Biblioteca",
+          "icon": "lucide-library-big",
+          "link": "Books/Biblioteca.md",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "file"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        }
+      ],
+      "mobileStyles": [],
+      "name": "Libros",
+      "position": {
+        "desktop": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "mobile": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "tablet": {
+          "allViews": {
+            "position": "props"
+          }
+        }
+      },
+      "updated": "2025-01-17T23:32:02.162Z"
+    },
+    {
+      "uuid": "8a42edd1-3efc-4e01-bf25-9924d4be2714",
+      "defaultStyles": [
+        "border",
+        "even",
+        "sticky"
+      ],
+      "items": [],
+      "mobileStyles": [],
+      "name": "Liga de Bolsa",
+      "position": {
+        "desktop": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "mobile": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "tablet": {
+          "allViews": {
+            "position": "props"
+          }
+        }
+      },
+      "updated": "2025-07-16T13:05:47.828Z"
+    },
+    {
+      "uuid": "35859269-fee5-48e0-9ced-ec051516c33c",
+      "defaultStyles": [
+        "border",
+        "even",
+        "sticky"
+      ],
+      "items": [
+        {
+          "uuid": "25f05110-6be3-4c62-9230-613f46e0fe14",
+          "label": "Añadir a la Lista",
+          "icon": "lucide-apple",
+          "link": "",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "templater-obsidian"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          },
+          "scriptConfig": {
+            "pluginFunction": "parseTemplateFile",
+            "sourceFile": "Templater/PLANTILLA-BOTÓN ALIMENTO.md"
+          }
+        },
+        {
+          "uuid": "ba8dac2e-270d-4ec8-b43f-5721646f85ba",
+          "label": "Resetear la Lista",
+          "icon": "lucide-timer-reset",
+          "link": "",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "templater-obsidian"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          },
+          "scriptConfig": {
+            "pluginFunction": "parseTemplateFile",
+            "sourceFile": "Templater/PLANTILLA-BOTÓN RESET LISTA COMPRA.md"
+          }
+        },
+        {
+          "uuid": "5c54af26-6224-46a4-b22f-0f1402105525",
+          "label": "Añadir lo Pendiente para el Menú",
+          "icon": "cMenuToolbarReload",
+          "link": "",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "templater-obsidian"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          },
+          "scriptConfig": {
+            "pluginFunction": ""
+          }
+        }
+      ],
+      "mobileStyles": [],
+      "name": "Lista de la Compra",
+      "position": {
+        "desktop": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "mobile": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "tablet": {
+          "allViews": {
+            "position": "props"
+          }
+        }
+      },
+      "updated": "2025-04-02T14:36:06.805Z"
+    },
+    {
+      "uuid": "7b0ff45d-f5f4-48e3-866a-72e973ca7ec4",
+      "defaultStyles": [
+        "border",
+        "even",
+        "sticky"
+      ],
+      "items": [],
+      "mobileStyles": [],
+      "name": "Master",
+      "position": {
+        "desktop": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "mobile": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "tablet": {
+          "allViews": {
+            "position": "props"
+          }
+        }
+      },
+      "updated": "2025-06-29T01:18:58.453Z"
+    },
+    {
+      "uuid": "be1fc244-598a-4ed7-ac6b-39f42654370f",
+      "defaultStyles": [
+        "border",
+        "even",
+        "sticky"
+      ],
+      "items": [
+        {
+          "uuid": "c3fecaf0-789f-461c-9ab5-0d5f11cc093d",
+          "label": "Amazon",
+          "icon": "lucide-shopping-basket",
+          "link": "",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "templater-obsidian"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          },
+          "scriptConfig": {
+            "pluginFunction": "parseTemplateFile",
+            "sourceFile": "Templater/PLANTILLAS-PÁGINAS WEB/PLANTILLA-PÁGINA WEB AMAZON.md"
+          }
+        },
+        {
+          "uuid": "d8e78b1e-2252-45df-b32b-7c699e436d07",
+          "label": "Wallapop",
+          "icon": "lucide-hand-coins",
+          "link": "",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "templater-obsidian"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          },
+          "scriptConfig": {
+            "pluginFunction": "parseTemplateFile",
+            "sourceFile": "Templater/PLANTILLAS-PÁGINAS WEB/PLANTILLA-PÁGINA WEB-WALLAPOP.md"
+          }
+        },
+        {
+          "uuid": "b1efbc41-e74d-4902-988c-677675384eb2",
+          "label": "Cex",
+          "icon": "lucide-gamepad",
+          "link": "",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "templater-obsidian"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          },
+          "scriptConfig": {
+            "pluginFunction": "parseTemplateFile",
+            "sourceFile": "Templater/PLANTILLAS-PÁGINAS WEB/PLANTILLA-PÁGINA WEB CEX.md"
+          }
+        },
+        {
+          "uuid": "010a337b-d672-4472-8a11-0011c79474b6",
+          "label": "Casa del Libro",
+          "icon": "lucide-book-copy",
+          "link": "",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "templater-obsidian"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          },
+          "scriptConfig": {
+            "pluginFunction": "parseTemplateFile",
+            "sourceFile": "Templater/PLANTILLAS-PÁGINAS WEB/PLANTILLA-PÁGINA WEB CASADELLIBRO.md"
+          }
+        },
+        {
+          "uuid": "a73103d3-24ba-4df0-8b4e-750877607f86",
+          "label": "Vinted",
+          "icon": "lucide-shirt",
+          "link": "",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "command"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        }
+      ],
+      "mobileStyles": [],
+      "name": "Otros",
+      "position": {
+        "desktop": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "mobile": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "tablet": {
+          "allViews": {
+            "position": "props"
+          }
+        }
+      },
+      "updated": "2025-03-17T03:35:13.676Z"
+    },
+    {
+      "uuid": "2bea7296-62cf-462d-9508-376b0d483170",
+      "defaultStyles": [
+        "border",
+        "even",
+        "sticky"
+      ],
+      "items": [
+        {
+          "uuid": "bd494752-dd43-4942-b4a7-3f2a5cc020d1",
+          "label": "Registro de Peso",
+          "icon": "lucide-list-tree",
+          "link": "Gimnasio/Peso Corporal/Registro de Peso Corporal.md",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "file"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "e9e556db-3339-4e4f-9db2-df14db11894f",
+          "label": "Añadir Peso",
+          "icon": "highlightr-add",
+          "link": "",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "templater-obsidian"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          },
+          "scriptConfig": {
+            "pluginFunction": "parseTemplateFile",
+            "sourceFile": "Templater/PLANTILLA-BOTÓN PESO.md"
+          }
+        }
+      ],
+      "mobileStyles": [],
+      "name": "Peso",
+      "position": {
+        "desktop": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "mobile": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "tablet": {
+          "allViews": {
+            "position": "props"
+          }
+        }
+      },
+      "updated": "2025-02-13T20:03:38.536Z"
+    },
+    {
+      "uuid": "07fcb335-0f0f-426a-a497-31edb0bb499b",
+      "defaultStyles": [
+        "border",
+        "even",
+        "sticky"
+      ],
+      "items": [
+        {
+          "uuid": "d78c956a-0c7d-4475-801e-1fc18af82f02",
+          "label": "Partituras",
+          "icon": "lucide-piano",
+          "link": "Piano/Partituras/Partituras.md",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "file"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "0929250d-c581-434e-9deb-d1b6bcc9129f",
+          "label": "Básico",
+          "icon": "lucide-activity",
+          "link": "Piano/Basics/Básico.md",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "file"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "3f91454f-3c77-4a0b-babd-a9bdb1a8782d",
+          "label": "Udemy",
+          "icon": "lucide-letter-text",
+          "link": "",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "templater-obsidian"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          },
+          "scriptConfig": {
+            "pluginFunction": "parseTemplateFile",
+            "sourceFile": "Templater/PLANTILLAS-PÁGINAS WEB/PLANTILLA-PÁGINA WEB-UDEMY.md"
+          }
+        }
+      ],
+      "mobileStyles": [],
+      "name": "Piano",
+      "position": {
+        "desktop": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "mobile": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "tablet": {
+          "allViews": {
+            "position": "props"
+          }
+        }
+      },
+      "updated": "2025-03-11T14:47:22.977Z"
+    },
+    {
+      "uuid": "2437859c-14f9-4819-aaab-0066c41741c0",
+      "defaultStyles": [
+        "border",
+        "even",
+        "sticky"
+      ],
+      "items": [
+        {
+          "uuid": "939acc40-c822-4413-a1d0-59efc6663bac",
+          "label": "Lobby",
+          "icon": "lucide-globe-lock",
+          "link": "",
+          "linkAttr": {
+            "commandId": "obsidian-custom-frames:open-custom-frames-pokerstars",
+            "hasVars": false,
+            "type": "templater-obsidian"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          },
+          "scriptConfig": {
+            "pluginFunction": "parseTemplateFile",
+            "sourceFile": "Templater/PLANTILLAS-PÁGINAS WEB/PLANTILLA- POKER STARS.md"
+          }
+        },
+        {
+          "uuid": "23f4e392-313d-4bc2-bf4b-4dc96a97e0e0",
+          "label": "Otros",
+          "icon": "lucide-waypoints",
+          "link": "Poker/Poker.md",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "file"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        }
+      ],
+      "mobileStyles": [],
+      "name": "Poker",
+      "position": {
+        "desktop": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "mobile": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "tablet": {
+          "allViews": {
+            "position": "props"
+          }
+        }
+      },
+      "updated": "2025-04-04T13:36:33.600Z"
+    },
+    {
+      "uuid": "de68aa80-0ae2-421e-b664-156531f2efdf",
+      "defaultStyles": [
+        "border",
+        "even",
+        "sticky"
+      ],
+      "items": [
+        {
+          "uuid": "3b7dfa13-d9cc-469f-af98-ec5f211b03eb",
+          "label": "Contraseñas",
+          "icon": "lucide-folder-lock",
+          "link": "",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "command"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "844237c4-1f67-4a7c-80a8-72100d801a7f",
+          "label": "Otros",
+          "icon": "lucide-file-lock-2",
+          "link": "",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "command"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        }
+      ],
+      "mobileStyles": [],
+      "name": "Priv",
+      "position": {
+        "desktop": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "mobile": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "tablet": {
+          "allViews": {
+            "position": "props"
+          }
+        }
+      },
+      "updated": "2025-01-16T15:18:16.667Z"
+    },
+    {
+      "uuid": "fe4cf730-8f61-48aa-b7c3-1af65cdc6022",
+      "defaultStyles": [
+        "border",
+        "even",
+        "sticky"
+      ],
+      "items": [
+        {
+          "uuid": "f1fd7ced-4306-48a5-9285-15fef6b42cde",
+          "label": "Competitions",
+          "icon": "lucide-trophy",
+          "link": "",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "command"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "136fedec-3b2c-4a67-89d4-f51f97566b30",
+          "label": "Proyectos",
+          "icon": "lucide-sprout",
+          "link": "Projects: Show projects",
+          "linkAttr": {
+            "commandId": "obsidian-projects:show-projects",
+            "hasVars": false,
+            "type": "command"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "b8086347-e1dd-4e3c-8d42-9359855c0475",
+          "label": "Audible",
+          "icon": "lucide-file-audio",
+          "link": "Custom Frames: Open Audible",
+          "linkAttr": {
+            "commandId": "obsidian-custom-frames:open-custom-frames-audible",
+            "hasVars": false,
+            "type": "command"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "eea61489-6f2c-44c0-8518-958a8c36337f",
+          "label": "Spotify",
+          "icon": "lucide-file-music",
+          "link": "",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "templater-obsidian"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          },
+          "scriptConfig": {
+            "pluginFunction": "parseTemplateFile",
+            "sourceFile": "Templater/PLANTILLAS-PÁGINAS WEB/PLANTILLA-PÁGINA WEB SPOTIFY.md"
+          }
+        },
+        {
+          "uuid": "f97c6757-1692-40e7-9988-767c0872deb9",
+          "label": "Instagram",
+          "icon": "lucide-instagram",
+          "link": "",
+          "linkAttr": {
+            "commandId": "obsidian-custom-frames:open-custom-frames-instagram",
+            "hasVars": false,
+            "type": "templater-obsidian"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          },
+          "scriptConfig": {
+            "pluginFunction": "parseTemplateFile",
+            "sourceFile": "Templater/PLANTILLAS-PÁGINAS WEB/PLANTILLA-PÁGINA WEB-INSTAGRAM.md"
+          }
+        },
+        {
+          "uuid": "cc7a9c56-6d92-49c0-993e-f9c170a6aeb4",
+          "label": "X",
+          "icon": "lucide-twitter",
+          "link": "",
+          "linkAttr": {
+            "commandId": "obsidian-custom-frames:open-custom-frames-twitter",
+            "hasVars": false,
+            "type": "templater-obsidian"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          },
+          "scriptConfig": {
+            "pluginFunction": "parseTemplateFile",
+            "sourceFile": "Templater/PLANTILLAS-PÁGINAS WEB/PLANTILLA-PÁGINA WEB TWITTER.md"
+          }
+        },
+        {
+          "uuid": "2a0d98e4-c916-4511-882c-03073dcbe467",
+          "label": "Youtube",
+          "icon": "lucide-youtube",
+          "link": "",
+          "linkAttr": {
+            "commandId": "obsidian-custom-frames:open-custom-frames-youtube",
+            "hasVars": false,
+            "type": "templater-obsidian"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          },
+          "scriptConfig": {
+            "pluginFunction": "parseTemplateFile",
+            "sourceFile": "Templater/PLANTILLAS-PÁGINAS WEB/PLANTILLA-PÁGINA WEB YOUTUBE.md"
+          }
+        },
+        {
+          "uuid": "db62442a-bba3-4ebc-bbd2-7fde00ae7de0",
+          "label": "Whatsapp",
+          "icon": "lucide-message-circle-more",
+          "link": "",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "templater-obsidian"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          },
+          "scriptConfig": {
+            "pluginFunction": "parseTemplateFile",
+            "sourceFile": "Templater/PLANTILLAS-PÁGINAS WEB/PLANTILLA-PÁGINA WEB WHATSAPP WEB.md"
+          }
+        },
+        {
+          "uuid": "ee0bd240-fd37-4a49-b3cd-b06f78cc052e",
+          "label": "Gmail",
+          "icon": "lucide-mail",
+          "link": "",
+          "linkAttr": {
+            "commandId": "obsidian-custom-frames:open-custom-frames-gmail",
+            "hasVars": false,
+            "type": "templater-obsidian"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          },
+          "scriptConfig": {
+            "pluginFunction": "parseTemplateFile",
+            "sourceFile": "Templater/PLANTILLAS-PÁGINAS WEB/PLANTILLA-PÁGINA WEB GMAIL.md"
+          }
+        },
+        {
+          "uuid": "149c60d4-d4ba-4296-b629-c65972624b7f",
+          "label": "Bots",
+          "icon": "lucide-bot-off",
+          "link": "Custom Frames: Open Telegram",
+          "linkAttr": {
+            "commandId": "obsidian-custom-frames:open-custom-frames-telegram",
+            "hasVars": false,
+            "type": "command"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "729667ff-317c-4405-9b2f-051fa6a06831",
+          "label": "Programación",
+          "icon": "lucide-table-properties",
+          "link": "03f32b07-2139-465f-a91a-111d47425b13",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "menu"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "4240b82a-fc5a-4c4e-9bff-38d92438c8c0",
+          "label": "Privado",
+          "icon": "lucide-book-key",
+          "link": "de68aa80-0ae2-421e-b664-156531f2efdf",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "menu"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "6e9fff72-d168-4d83-a463-192fb971c0da",
+          "label": "Info",
+          "icon": "lucide-info",
+          "link": "13e206b6-b5ac-4fe3-ac0c-e869f4866bfa",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "menu"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "2ae099fe-7699-4e71-bb57-d49b4fe9b833",
+          "label": "Otros",
+          "icon": "lucide-more-horizontal",
+          "link": "be1fc244-598a-4ed7-ac6b-39f42654370f",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "menu"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        }
+      ],
+      "mobileStyles": [],
+      "name": "Privado",
+      "position": {
+        "desktop": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "mobile": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "tablet": {
+          "allViews": {
+            "position": "props"
+          }
+        }
+      },
+      "updated": "2025-08-07T16:31:09.337Z"
+    },
+    {
+      "uuid": "03f32b07-2139-465f-a91a-111d47425b13",
+      "defaultStyles": [
+        "border",
+        "even",
+        "sticky"
+      ],
+      "items": [
+        {
+          "uuid": "8f2facb2-f4a8-4ff5-b393-fb7ee340b382",
+          "label": "Workspaces",
+          "icon": "lucide-network",
+          "link": "Workspaces Plus: Open Workspaces Plus",
+          "linkAttr": {
+            "commandId": "workspaces-plus:open-workspaces-plus",
+            "hasVars": false,
+            "type": "command"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "f3d814ce-8f1a-4fcd-9b13-59ef14f79e30",
+          "label": "Visual Studio Code",
+          "icon": "lucide-code-square",
+          "link": "",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "templater-obsidian"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          },
+          "scriptConfig": {
+            "pluginFunction": "parseTemplateFile",
+            "sourceFile": "Templater/PLANTILLAS-PÁGINAS WEB/PLANTILLA- VISUAL STUDIO CODE.md"
+          }
+        }
+      ],
+      "mobileStyles": [],
+      "name": "Programación",
+      "position": {
+        "desktop": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "mobile": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "tablet": {
+          "allViews": {
+            "position": "props"
+          }
+        }
+      },
+      "updated": "2025-04-02T14:49:40.796Z"
+    },
+    {
+      "uuid": "bc4ba3be-c37f-45c8-b9d9-42fcccf16f6f",
+      "defaultStyles": [
+        "border",
+        "even",
+        "sticky"
+      ],
+      "items": [
+        {
+          "uuid": "d0540a48-6e41-4229-becc-7b3b323eb10c",
+          "label": "Watchdog",
+          "icon": "lucide-glasses",
+          "link": "",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "command"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "27ccc547-3a5b-4b3f-bac0-00b9f2038f0f",
+          "label": "Pandas",
+          "icon": "lucide-dog",
+          "link": "",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "command"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        }
+      ],
+      "mobileStyles": [],
+      "name": "Python",
+      "position": {
+        "desktop": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "mobile": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "tablet": {
+          "allViews": {
+            "position": "props"
+          }
+        }
+      },
+      "updated": "2025-08-06T14:27:43.091Z"
+    },
+    {
+      "uuid": "baf8efb0-3889-4f6d-bba5-b8c845428972",
+      "defaultStyles": [
+        "border",
+        "even",
+        "sticky"
+      ],
+      "items": [
+        {
+          "uuid": "ac528a96-2669-4f04-8661-fa7e891f4e33",
+          "label": "Postres",
+          "icon": "lucide-cake-slice",
+          "link": "Recetas/Postres.md",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "file"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "ba78757f-06f8-48e1-9855-25b93563d309",
+          "label": "Estandar",
+          "icon": "lucide-cooking-pot",
+          "link": "Recetas/Estandar.md",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "file"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "2b4a1602-f6c5-4c15-ad4c-e2d19d1573dc",
+          "label": "Menú Semanal",
+          "icon": "lucide-menu-square",
+          "link": "Menú/Menú Semanal.md",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "file"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "869d9885-04f1-4998-8a09-875d29781cb8",
+          "label": "Registro Agua",
+          "icon": "lucide-glass-water",
+          "link": "6ab4cb98-76bf-4101-aa30-56be0efb94e3",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "menu"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "1de816de-ee5a-4249-90ad-c46b4ec6a24d",
+          "label": "Lista de la Compra",
+          "icon": "lucide-clipboard-list",
+          "link": "35859269-fee5-48e0-9ced-ec051516c33c",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "menu"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        }
+      ],
+      "mobileStyles": [],
+      "name": "Recetas",
+      "position": {
+        "desktop": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "mobile": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "tablet": {
+          "allViews": {
+            "position": "props"
+          }
+        }
+      },
+      "updated": "2025-02-06T21:14:37.199Z"
+    },
+    {
+      "uuid": "211f44da-469e-40d1-81c5-e15eb0a44710",
+      "defaultStyles": [
+        "border",
+        "even",
+        "sticky"
+      ],
+      "items": [
+        {
+          "uuid": "1ccf554e-83ff-40a2-a894-e89317548058",
+          "label": "Aula Global",
+          "icon": "",
+          "link": "",
+          "linkAttr": {
+            "commandId": "obsidian-custom-frames:open-custom-frames-aula-global",
+            "hasVars": false,
+            "type": "templater-obsidian"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          },
+          "scriptConfig": {
+            "pluginFunction": "parseTemplateFile",
+            "expression": "<%* const url = \"https://aulaglobal.uc3m.es/\"; // Aquí colocas la URL que quieres abrir window.open(url, '_blank'); %>",
+            "sourceFile": "Templater/PLANTILLAS-PÁGINAS WEB/PLANTILLA-PÁGINA WEB-AULA GLOBAL.md"
+          }
+        },
+        {
+          "uuid": "c88f8897-3957-44a6-8cad-f1e3cd35ff86",
+          "label": "Academia",
+          "icon": "",
+          "link": "",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "templater-obsidian"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          },
+          "scriptConfig": {
+            "pluginFunction": "parseTemplateFile",
+            "sourceFile": "Templater/PLANTILLAS-PÁGINAS WEB/PLANTILLA-PÁGINA WEB-ACADEMIA.md"
+          }
+        },
+        {
+          "uuid": "5a6b3b8c-7c71-40ac-9ad4-de39cdb3d525",
+          "label": "Classroom",
+          "icon": "",
+          "link": "",
+          "linkAttr": {
+            "commandId": "obsidian-custom-frames:open-custom-frames-classroom",
+            "hasVars": false,
+            "type": "templater-obsidian"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          },
+          "scriptConfig": {
+            "pluginFunction": "parseTemplateFile",
+            "sourceFile": "Templater/PLANTILLAS-PÁGINAS WEB/PLANTILLA-PÁGINA WEB-CLASSROOM.md"
+          }
+        },
+        {
+          "uuid": "429302ad-2bf3-4e69-b357-0fa7aeb27927",
+          "label": "Overleaf",
+          "icon": "",
+          "link": "",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "templater-obsidian"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          },
+          "scriptConfig": {
+            "pluginFunction": "parseTemplateFile",
+            "sourceFile": "Templater/PLANTILLAS-PÁGINAS WEB/PLANTILLA-PÁGINA WEB-OVERLEAF.md"
+          }
+        },
+        {
+          "uuid": "f87f8d09-0655-41c5-9b09-ca2d9ceeb370",
+          "label": "Reservar Sala uc3m",
+          "icon": "",
+          "link": "",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "templater-obsidian"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          },
+          "scriptConfig": {
+            "pluginFunction": "parseTemplateFile",
+            "sourceFile": "Templater/PLANTILLAS-PÁGINAS WEB/PLANTILLA-PÁGINA WEB RESERVAR SALA.md"
+          }
+        }
+      ],
+      "mobileStyles": [],
+      "name": "Webs",
+      "position": {
+        "desktop": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "mobile": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "tablet": {
+          "allViews": {
+            "position": "props"
+          }
+        }
+      },
+      "updated": "2025-03-18T11:35:08.343Z"
+    }
+  ],
+  "version": 20240727.1,
+  "whatsnew_version": 1.15
+}

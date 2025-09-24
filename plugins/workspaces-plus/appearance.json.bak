@@ -1,0 +1,31 @@
+{
+  "accentColor": "#878787",
+  "theme": "obsidian",
+  "cssTheme": "Atom",
+  "textFontFamily": "Franklin Gothic Medium,Arial Black,Arial Rounded MT",
+  "baseFontSize": 13,
+  "monospaceFontFamily": "Arial Rounded MT,Arial Black",
+  "baseFontSizeAction": true,
+  "interfaceFontFamily": "Arial Black",
+  "enabledCssSnippets": [
+    "Nuevo Documento de texto",
+    "ajuste-espaciado.css",
+    "Botón flotante",
+    "Colorboxes",
+    "Links",
+    "Tabs",
+    "Banners",
+    "Columnas",
+    "MCL Multi Column - copia",
+    "Botones",
+    "Imagenes",
+    "Tracking",
+    "3callouts",
+    "Subrayador",
+    "Colorboxes Colores",
+    "Prueba Tabs",
+    "Barra lateral Callouts"
+  ],
+  "showViewHeader": true,
+  "showRibbon": true
+}
