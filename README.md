@@ -1,1 +1,1 @@
-Obsidian Customization - Rodrigo Roldán Carlevarino
+Obsidian Set-Up Customization - Rodrigo Roldán Carlevarino
